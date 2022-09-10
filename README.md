@@ -22,6 +22,7 @@ To balance the given dataset, in order to improve the performance of the propose
 
 * Model accurary :
 
+![image](https://user-images.githubusercontent.com/111189874/189469318-0f27689a-2569-433d-9524-ccce4b5e1edb.png)
 
 
 * model loss :
