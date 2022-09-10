@@ -27,6 +27,7 @@ To balance the given dataset, in order to improve the performance of the propose
 
 * model loss :
 
+![image](https://user-images.githubusercontent.com/111189874/189469361-d1e2ebb3-3341-43b8-ab5f-54515347c65a.png)
 
 
 
